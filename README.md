@@ -1,53 +1,119 @@
-# 👋 Hi, I'm Velmurugan S
+```markdown
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vel1803&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-🎓 Engineering Student | 🤖 AI & Software Developer | 🚀 Hackathon Enthusiast
+<h1 align="center">Hi 👋, I'm Velmurugan S</h1>
 
-Welcome to my GitHub! I enjoy building AI-powered applications that solve real-world problems. I'm passionate about Machine Learning, Software Development, and creating innovative solutions through technology.
+<h3 align="center">
+🌱 Python Learner • 🤖 Aspiring AI Engineer • 💡 Hackathon Enthusiast
+</h3>
 
----
-
-## 🚀 About Me
-
-- 🎓 Engineering Student
-- 💻 Passionate about Artificial Intelligence and Software Development
-- 🌱 Currently learning Machine Learning, React, and Cloud Computing
-- 🏆 Active participant in hackathons and coding competitions
-- 🎯 Goal: Build impactful AI solutions for real-world challenges
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- Gen Ai
-- Git & GitHub
+<p align="center">
+I believe technology should solve real-world problems. Every project I build is another step toward becoming an AI Engineer who creates meaningful solutions.
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 About Me
 
-### 🚑 RescuePulse-Med-AI
-AI-powered multi-agent emergency triage and coordination system.
+🎓 Engineering Student passionate about Artificial Intelligence.
 
-### 🚨 RescueNet
-Voice-based emergency response system using AI.
+🐍 Currently learning **Python** and strengthening my programming fundamentals.
 
----
+🤖 Exploring **Machine Learning**, **Generative AI**, and intelligent software systems.
 
-## 📚 Currently Learning
+🏆 Love participating in hackathons and building innovative solutions.
 
-- Machine Learning
-- Generative AI
-- React.js
-- Cloud Computing
+🎯 **Mission:** Build AI products that make a positive impact on society.
 
 ---
 
-## 📫 Contact
+# 🛠 Skills
 
-- 📧 Email: **vel18032008an@gmail.com**
-- 🐙 GitHub: **github.com/Vel1803**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 ---
 
-⭐ *"Learning every day, building for tomorrow."*
+# 🌱 Currently Learning
+
+- 🐍 Python Programming
+- 🧠 Data Structures & Algorithms
+- 🤖 Machine Learning
+- ✨ Generative AI
+- 💻 Problem Solving
+
+---
+
+# 📂 Featured Projects
+
+## 🚑 RescuePulse-Med-AI
+
+> AI-powered multi-agent emergency triage and healthcare coordination system designed to assist hospitals in prioritizing patients and improving emergency response.
+
+🔹 Python
+
+---
+
+## 🚨 RescueNet
+
+> Voice-enabled emergency response platform that helps users communicate with emergency services quickly using AI-powered voice interaction.
+
+🔹 JavaScript
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Master Python
+
+✅ Build 10 AI Projects
+
+✅ Learn Machine Learning
+
+✅ Contribute to Open Source
+
+✅ Win National Hackathons
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vel1803&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vel1803&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vel1803&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Every expert was once a beginner. I learn, build, improve, and repeat."**
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** vel18032008an@gmail.com
+
+🐙 **GitHub:** https://github.com/Vel1803
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
+```
